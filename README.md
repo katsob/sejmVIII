@@ -2,4 +2,4 @@
 
 (Pełnowymiarowy, czytelny rezultat w pliku RESULT.pdf)
 
-![![alt](RESULT.jpf)](RESULT.pdf)
+![![](RESULT.jpg)](RESULT.pdf)
