@@ -2,4 +2,4 @@
 
 (Pełnowymiarowy, czytelny rezultat w pliku RESULT.pdf)
 
-![[katsob/sejmVIII/blob/branch/im.png](wynik)](katsob/sejmVIII/blob/branch/RESULT.pdf)
+![[katsob/sejmVIII/blob/master/im.png](wynik)](katsob/sejmVIII/blob/master/RESULT.pdf)
