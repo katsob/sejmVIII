@@ -2,4 +2,4 @@
 
 (Pełnowymiarowy, czytelny rezultat w pliku RESULT.pdf)
 
-![im.png](wynik)
+![user/repo/blob/branch/im.png](wynik)
