@@ -1,5 +1,5 @@
  ## Podobieństwo 800 głosowań wśród posłów VIII kadencji
 
-(Pełnowymiarowy, czytelny rezultat w pliku RESULT.pdf)
+(Klik do grafiki w czytelnej rozdzielczości)
 
-![![](RESULT.jpg)](RESULT.pdf)
+[![](RESULT.jpg)](RESULT.pdf)
