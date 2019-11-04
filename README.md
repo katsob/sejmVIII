@@ -2,4 +2,4 @@
 
 (Pełnowymiarowy, czytelny rezultat w pliku RESULT.pdf)
 
-![![a](im.png)](RESULT.pdf)
+![![alt](./im.png)](RESULT.pdf)
