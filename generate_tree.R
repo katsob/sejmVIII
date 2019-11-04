@@ -28,7 +28,7 @@ legend(x=-2.7, y=2.3, col = colors, legend = names(colors), pch=16, title='', ce
 dev.off()
 
 
-png("RESULT.png", width = 1200, height    = 1200,pointsize = 1.8, res=450)
+jpeg("RESULT.jpg", width = 1200, height    = 1200,pointsize = 1.8, res=450)
 plot(as.phylo(hc), type='fan', cex=.8, lwd = 0.1, tip.color=tips, no.margin = F, label.offset = 0.05)
 legend(x=-2.7, y=2.3, col = colors, legend = names(colors), pch=16, title='', cex=1.8, ncol=1, bty='n')
 dev.off()
